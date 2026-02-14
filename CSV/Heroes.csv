@@ -1,0 +1,31 @@
+Nom,vida,daño,movimiento,vidaminion,pasivas,,
+Fuego 1,8,3,2,2,"• Puedes utilizar una acción para sacrificar un secuaz y causar 3 de daño a un enemigo en su loseta
+• Si tienes 3 secuaces juntos en una loseta donde haya un edificio o muro, puedes destruirlo
+explotando los secuaces.
+• Si matas un héroe enemigo, genera un secuaz",,
+Fuego 2,7,3,2,3,"• Utilizando una acción, puede inflingir uno de daño a todas las unidades enemigas en su loseta
+• Si matamos a algún héroe tenemos una acción adicional ese turno.",,"Al entrar en una loseta donde haya unidades enemigas, puede inflingir uno de daño a una de ellas."
+Rayo 1,8,2,2,3,"• Si le haces daño a un héroe enemigo, le robas oro o energía a tu elección",,
+Rayo 2,8,2,2,3,"• Cuando usa una carta, puedes infligir dos de daño a una unidad en tu misma loseta",,
+Viento 1,7,3,1,3,"• Cada vez que juegue/compre una carta, puedes elegir entre:
+          o Moverse hasta dos losetas
+          o Mover a un héroe que se encuentre en tu misma loseta",,
+Viento 2,7,2,3,2,"• No le afectan los muros pero tampoco puede ponerlos.
+• Los secuaces son inmunes a los efectos de los biomas rivales.",,
+Bosque 1,X,2,2,4,"• No tiene heroe, solo juega con secuaces
+• Siempre tienes almenos 2 secuaces (si tienes menos spawnean al altar).
+• Por cada aldea construida aumenta 1 el número mínimo de secuaces y 2 el número máximo
+de secuaces.
+• Su acción de daño hace que todos los secuaces causen 2 de daño en la misma loseta.",,
+Bosque 2,8,2,2,3,"• Podemos hacer teleport entre losetas de bosque utilizando una acción.
+• Cuando un secuaz aliado entra en una loseta de bosque, puede elegir por cual loseta del
+bosque salir.",,
+Roca 1,10,2,2,5,"• El héroe gana los desempates para el control de edificios (como si siempre defendiera).
+• Los minions tienen 1 de movimiento pero tienen más vida.",,
+Roca 2,9,3,2,3,"• Al usar la carta de colocar muros coloca 2 muros en vez de 1.
+• Los muros de pueden colocar hasta a 1 casillas de distancia.",,
+Agua 1,8,2,2,4,"• Si empezamos el turno en una loseta de agua tenemos una acción más en el turno.
+• Si usamos una carta en una loseta de agua nos curamos 2 de vida.",,
+Agua 2,7,3,2,3,"• Si tenemos losetas de agua adyacentes, tanto el héroe como los minions pueden moverse
+entre ellas sin gastar ni turno ni paso de movimiento.
+• Si usamos una carta en una loseta de agua podemos descartar una carta del mercado",,
