@@ -1,0 +1,52 @@
+name: Actualizar CSVs Privados
+on:
+  workflow_dispatch:
+
+jobs:
+  descargar_datos:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Instalar Python y dependencias
+        run: |
+          pip install pandas gspread google-auth
+
+      - name: Descargar desde Google Sheets
+        env:
+          GOOGLE_JSON: ${{ secrets.GOOGLE_APPLICATION_CREDENTIALS }}
+        run: |
+          python - <<EOF
+          import os
+          import json
+          import gspread
+          from google.oauth2.service_account import Credentials
+
+          # Autenticación
+          scope = ['https://www.googleapis.com/auth/spreadsheets.readonly']
+          creds_dict = json.loads(os.environ['GOOGLE_JSON'])
+          creds = Credentials.from_service_account_info(creds_dict, scopes=scope)
+          client = gspread.authorize(creds)
+
+          # ID del documento
+          sheet_id = '1rJ7b9R2dWKNKfz7LI7vZ7bguYyTmed3gd-IWtri-vv0'
+          sh = client.open_by_key(sheet_id)
+
+          # Lista de pestañas a exportar: (Nombre_Pestaña, Nombre_Archivo_CSV)
+          paginas = [('Cartas basicas', 'Basicas.csv'), ('Cartas mercado', 'Mercado.csv'), ('Eventos Early', 'EventosEarly.csv'), ('Eventos Mid', 'EventosMid.csv'), ('Eventos Late', 'EventosLate.csv'), ('Cartas faccion roca', 'Roca.csv'), ('Cartas faccion fuego', 'Fuego.csv'), ('Cartas faccion rayo', 'Rayo.csv'), ('Cartas faccion agua', 'Agua.csv'), ('Cartas faccion viento', 'Viento.csv'), ('Cartas faccion bosque', 'Bosque.csv'), ('Resum Heroes', 'Heroes.csv'), ('Losetas Resumen', 'Losetas.csv')]
+
+          for nombre_hoja, archivo in paginas:
+              worksheet = sh.worksheet(nombre_hoja)
+              with open(archivo, 'w', encoding='utf-8') as f:
+                  import csv
+                  writer = csv.writer(f)
+                  writer.writerows(worksheet.get_all_values())
+          EOF
+
+      - name: Commit y Push
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add *.csv
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Actualización privada" && git push)
