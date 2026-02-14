@@ -34,7 +34,7 @@ jobs:
           sh = client.open_by_key(sheet_id)
 
           # Lista de pestañas a exportar: (Nombre_Pestaña, Nombre_Archivo_CSV)
-          paginas = [('Cartas basicas', 'Basicas.csv'), ('Cartas mercado', 'Mercado.csv'), ('Eventos Early', 'EventosEarly.csv'), ('Eventos Mid', 'EventosMid.csv'), ('Eventos Late', 'EventosLate.csv'), ('Cartas faccion roca', 'Roca.csv'), ('Cartas faccion fuego', 'Fuego.csv'), ('Cartas faccion rayo', 'Rayo.csv'), ('Cartas faccion agua', 'Agua.csv'), ('Cartas faccion viento', 'Viento.csv'), ('Cartas faccion bosque', 'Bosque.csv'), ('Resum Heroes', 'Heroes.csv'), ('Losetas Resumen', 'Losetas.csv')]
+          paginas = [('Cartas basicas', 'CSV/Basicas.csv'), ('Cartas mercado', 'CSV/Mercado.csv'), ('Eventos Early', 'CSV/EventosEarly.csv'), ('Eventos Mid', 'CSV/EventosMid.csv'), ('Eventos Late', 'CSV/EventosLate.csv'), ('Cartas faccion roca', 'CSV/Roca.csv'), ('Cartas faccion fuego', 'CSV/Fuego.csv'), ('Cartas faccion rayo', 'CSV/Rayo.csv'), ('Cartas faccion agua', 'CSV/Agua.csv'), ('Cartas faccion viento', 'CSV/Viento.csv'), ('Cartas faccion bosque', 'CSV/Bosque.csv'), ('Resum Heroes', 'CSV/Heroes.csv'), ('Losetas Resumen', 'CSV/Losetas.csv')]
 
           for nombre_hoja, archivo in paginas:
               worksheet = sh.worksheet(nombre_hoja)
