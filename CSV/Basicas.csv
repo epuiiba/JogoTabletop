@@ -1,5 +1,5 @@
 Nombre,Oro,Energia,Descripcion,Copies,Imagen,Tag,card_background,
-Explora loseta normal,2,1,Explora una loseta normal,8,Basica0_ExNormal.png,Explorar Normal,Cartes Elemental/BackBasica.png,a
+Explora loseta normal TEST,2,1,Explora una loseta normal,8,Basica0_ExNormal.png,Explorar Normal,Cartes Elemental/BackBasica.png,a
 Transformar loseta normal,3,3,Transforma una loseta normal en una de tu facción,8,Basica1_TransformarNormal.png,Transformar Normal,Cartes Elemental/BackBasica.png,Oro 1->3
 Construir aldea,4,4,Construye una aldea,8,Basica2_Aldea.png,Construir Aldea,Cartes Elemental/BackBasica.png,
 Constuir templo,8,8,Construye un templo,8,Basica3_Templo.png,Construir Templo,Cartes Elemental/BackBasica.png,5/7->8/8
