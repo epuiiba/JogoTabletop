@@ -9,23 +9,23 @@ Cancela carta,1,"Juega esta carta cuando un enemigo juegue una carta sobre un ed
 Cancela carta,1,"Juega esta carta cuando un enemigo juegue una carta de ataque o destruir edificio, anula su efecto y pierde la acción",1,,Utilidad,
 Relámpago,1,Inflinge 2 de daño a cualquier heroe enemigo (sin importar la distancia),1,,Combate,
 Espejo letal,1,"Juega esta carta cuando recibas daño, el atacante recibe 5 de daño",1,,,De 3 a 4
-Pies electrocutados,1,"Hasta nuestro siguiente turno, los demás heroes no pueden moverse",1,,,
 Cubrir,2,"Hasta el principio de tu siguiente turno, no puedes sufrir daño.",1,,Utilidad,
 Transformación 2,2,Transforma cualquier loseta en una de rayo (sin importar la distancia),1,11_TransformarCualquiera.png,Transformar Faccion,
 Destuir edificio,2,Destruye cualquier edificio,1,FaccioBasica5_Destruir.png,"Utilidad, Combate",
 Compra acelerada,2,"Utiliza esta carta para comprar hasta 2 cartas del mercado, cuestan la mitad de oro",1,,Utilidad,
 Descarga espejo,2,"Por cada carta que descartemos, los héroes que estén en la misma loseta tienen que descartar la misma cantidad",1,,Utilidad,
 Interrupción,2,"Juega esta carta cuando un enemigo entre en la misma loseta, inflinge 2 de daño y termina su turno",1,,Combate,
-Cancela carta,2,"Juega esta carta cuando un enemigo juegue una carta que cueste 5 o menos de energía, anula su efecto y pierde la acción",1,,Utilidad,
-Invocación eléctrica,2,Genera tres secuaces en la posición que quieras del tablero (los tres en la misma) (ingorando el límite de secuaces),1,,,
 Arquitectura relámpago,2,Construye 4 muros en losetas distintas del tablero (sin importar la distancia),1,,,
-Movilización eléctrica,2,Mueve todos tus secuaces que se encuentren en tu misma loseta a la posición que quieras del tablero.,1,,,
 Descarga de mano,2,Los  héroes que se encuentren en la misma loseta deben descartar 2 cartas de su mano,1,,Utilidad,De 3 a 2
+Pies electrocutados,3,"Hasta nuestro siguiente turno, los demás heroes no pueden moverse",1,,,De 1 a 3
+Cancela carta,3,"Juega esta carta cuando un enemigo juegue una carta que cueste 5 o menos de energía, anula su efecto y pierde la acción",1,,Utilidad,De 2 a 3
 Sobrecarga de cartas,3,"Utiliza hasta 5 cartas de mercado de tu mano sin utilizar acciones, solo se paga el precio",1,,Utilidad,
 Explosión por carta,3,"Descarta las cartas que quieras de tu mano, inflinge 2 de daño a todas las unidades en tu loseta por cada carta descartada",1,,Utilidad,
 Destuir edificio+,3,Destruye cualquier edificio (sin importar la distancia),1,FaccioBasica5_Destruir.png,"Utilidad, Combate",
 Limitar acciones,3,"Hasta tu próximo turno, los enemigos no pueden usar más de 2 acciones",1,,,
-Sobrecarga de secuaces,8,Genera cinco secuaces en posiciones distintas del tablero (sin importar la distancia y ignorando el límite de secuaces),1,,,De 3 a 8
+Invocación eléctrica,4,"Elige una loseta del tablero, genera tres secuaces en esa loseta (ingorando el límite de secuaces)",1,,,De 2 a 4
+Movilización eléctrica,4,Mueve todos tus secuaces que se encuentren en tu misma loseta a la posición que quieras del tablero.,1,,,De 2 a 4
 Electrocutación masiva,6,Todas las unidades enemigas que se encuentren en la misma loseta que un secuaz aliado se electrocutan. Cada heroe electrocutado hace descartar 3 cartas al jugador y cada secuaz electrocutado hace perder un recurso al jugador en cuestión (a elección de la víctima),1,,,
 Aniquilar secuaces,7,Elimina todos los secuaces enemigos,1,,,De 5 a 7
 Tormenta eléctrica,7,Todas las unidades enemigas que se encuentren en la misma loseta que un secuaz aliado se electrocutan. Roba tantas cartas a los jugadores como unidades suyas electrocutes.,1,,,
+Sobrecarga de secuaces,8,Genera cinco secuaces en posiciones distintas del tablero (sin importar la distancia y ignorando el límite de secuaces),1,,,De 3 a 8

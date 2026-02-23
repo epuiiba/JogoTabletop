@@ -1,35 +1,35 @@
-Nombre,Recurso,Descripcion,Copies,Imagen,Tag,Update 1
-Ataque elemental,1,Inflige 3 de daño 2 veces,1,FaccioBasica0_Ataque.png,Combate,Ataca con 7 de vida a un heroe enemigo
-Descarte,1,Descarta todas las cartas del mercado,1,FaccioBasica1_Descarte.png,Utilidad,
-Semilla ancestral,1,Transforma una loseta normal en una de bosque,1,Basica1_TransformarNormal.png,Transformar Normal,
-Pies imparables,1,Tienes 3 acciones adicionales en el turno.,1,FaccioBasica3_Acciones.png,Utilidad,
+Nombre,Recurso,Descripcion,Copies,Imagen,Tag,Update 1,Update 2
+Ataque elemental,1,Inflige 3 de daño 2 veces,1,FaccioBasica0_Ataque.png,Combate,Ataca con 7 de vida a un heroe enemigo,
+Descarte,1,Descarta todas las cartas del mercado,1,FaccioBasica1_Descarte.png,Utilidad,,
+Semilla ancestral,1,Transforma una loseta normal en una de bosque,1,Basica1_TransformarNormal.png,Transformar Normal,,
+Pies imparables,1,Tienes 3 acciones adicionales en el turno.,1,FaccioBasica3_Acciones.png,Utilidad,,
 Transmutación,1,"Elige una:
 • Transforma todo tu oro en energia
-• Transforma toda tu energia en oro",1,,,
+• Transforma toda tu energia en oro",1,,,,
 Transmutación,1,"Elige una:
 • Transforma todo el oro de otro jugador en energia
-• Transforma toda la energia de otro jugador en oro",1,,,
-Ofrenda del Bosque,1,"Sacrifica todos los secuaces aliados que quieras. Por cada secuaz sacrificado, recibe 2 de oro, 2 de energia y te curas 3 de vida.",1,,,"Sacrifica todos los secuaces aliados que quieras. Por cada secuaz sacrificado, recibe uno de oro, uno de energia y te curas 2 de vida."
-Venganza de la Arboleda,1,"Hasta el principio de tu siguiente turno, si un enemigo mata uno de tus secuaces, tiene que descartar 2 de oro o 2 de energia a su elección",1,,,"Hasta el principio de tu siguiente turno, si un enemigo mata uno de tus secuaces, tiene que descartar uno de oro o uno de energia a su elección"
-Territorio Sagrado,1,"Hasta el principio de tu siguiente turno, los enemigos no pueden capturar edificios en losetas de bosque",1,,,
-Raíces Protectoras,1,Juega esta carta cuando vayas a recibir daño. Sacrifica 1 secuaz en la misma loseta o en una adyacente para anular y devolver todo el daño,1,,,
-Muralla de Raíces,1,Construye un muro en cada loseta en la que se encuentren al menos dos secuaces aliados,1,,,
-Consagración Natural,1,Sacrifica tres secuaces que se encuentren sobre una loseta normal sin ninguna construcción. Transforma esa loseta en una loseta de bosque.,1,,,De 2 a 1
-Llamada del Bosque,2,Genera un secuaz en cada loseta de bosque (ignorando el límite de secuaces),1,,"Utilidad, Secuaz",De 1 a 2
-Transformación 2,2,Transforma cualquier loseta en una de bosque (sin importar la distancia),1,11_TransformarCualquiera.png,Transformar Faccion,
-Ira de la Naturaleza,2,Destruye cualquier edificio,1,FaccioBasica5_Destruir.png,"Utilidad, Combate",
-Corrupción del Bosque,2,Transforma un secuaz de cada enemigo en un secuaz aliado (esten donde esten),1,,,
-Cosecha Natural,2,"Hasta el principio de tu siguiente turno, cuando un secuaz muera, gana 2 oro o 2 energía a tu elección",1,,,"Hasta el principio de tu siguiente turno, cuando un secuaz muera, gana 1 oro o 1 energía a tu elección"
-Poblado del Bosque,2,Genera dos secuaces en cada aldea que controles (ignorando el límite de secuaces),1,,,
-Raíces Controladoras,2,"Hasta tu siguiente turno, las unidades enemigas que empiezen el turno en la misma loseta que un secuaz aliado no pueden moverse",1,,,
-Alzamiento del Enjambre,2,Cada secuaz inflinge 3 de daño a una unidad en su misma loseta,1,,,
-Cubrir,3,"Hasta el principio de tu siguiente turno, tus unidades no pueden sufrir daño.",1,,Utilidad,
-Conversión Absoluta,3,Transforma todos los secuaces enemigos en la loseta donde se encuentra tu heroe en secuaces aliados (ignorando limite de secuaces),1,,,
-Explotación Silvana,3,Construye un extractor y una mina en losetas de bosque que no tengan ninguna construcción,1,,,
-Despertar del Terreno,3,Juega esta carta cuando haya 3 o más secuaces enemigos en tu loseta. Transforma esa loseta en una loseta de bosque (aunque haya un edificio),1,,,
-Ciclo Infinito,3,"Hasta el principio de tu siguiente turno, cada vez que un secuaz muera, genera otro en una loseta de de tu facción",1,,,
-Ruinas del Bosque,3,Destruye cualquier edificio (sin importar la distancia),1,FaccioBasica5_Destruir.png,"Utilidad, Combate",
-Tributos del Bosque,3,Roba un recurso a cada jugador por cada unidad que se encuentre en la misma loseta que un secuaz aliado (el recurso a elección de la víctima),1,,,
-Dominio del Bosque,5,Transforma todos los secuaces enemigos en losetas de tu facción en secuaces aliados.,1,,,De 3 a 5
-Colonización Salvaje,6,Genera un secuaz en cada loseta de facción que no sea la tuya (ignorando el límite de secuaces),1,,,De 5 a 6 y de 2 a 1
-Wololo,8,Cada secuaz transforma un secuaz enemigo en aliado que se encuentre en su misma loseta,1,,,
+• Transforma toda la energia de otro jugador en oro",1,,,,
+Ofrenda del Bosque,1,"Sacrifica todos los secuaces aliados que quieras. Por cada secuaz sacrificado, recibe 2 de oro, 2 de energia y te curas 3 de vida.",1,,,"Sacrifica todos los secuaces aliados que quieras. Por cada secuaz sacrificado, recibe uno de oro, uno de energia y te curas 2 de vida.",
+Venganza de la Arboleda,1,"Hasta el principio de tu siguiente turno, si un enemigo mata uno de tus secuaces, tiene que descartar 2 de oro o 2 de energia a su elección",1,,,"Hasta el principio de tu siguiente turno, si un enemigo mata uno de tus secuaces, tiene que descartar uno de oro o uno de energia a su elección",
+Territorio Sagrado,1,"Hasta el principio de tu siguiente turno, los enemigos no pueden capturar edificios en losetas de bosque",1,,,,
+Raíces Protectoras,1,Juega esta carta cuando vayas a recibir daño. Sacrifica 1 secuaz en la misma loseta o en una adyacente para anular y devolver todo el daño,1,,,,
+Muralla de Raíces,1,Construye un muro en cada loseta en la que se encuentren al menos dos secuaces aliados,1,,,,
+Consagración Natural,1,Sacrifica 2 secuaces que se encuentren sobre una loseta normal sin ninguna construcción. Transforma esa loseta en una loseta de bosque.,1,,,De 2 a 1,Sacrifica 3 secuaces que se encuentren sobre una loseta normal sin ninguna construcción. Transforma esa loseta en una loseta de bosque.
+Llamada del Bosque,2,Genera un secuaz en cada loseta de bosque (ignorando el límite de secuaces),1,,"Utilidad, Secuaz",De 1 a 2,
+Transformación 2,2,Transforma cualquier loseta en una de bosque (sin importar la distancia),1,11_TransformarCualquiera.png,Transformar Faccion,,
+Ira de la Naturaleza,2,Destruye cualquier edificio,1,FaccioBasica5_Destruir.png,"Utilidad, Combate",,
+Corrupción del Bosque,2,Transforma un secuaz de cada enemigo en un secuaz aliado (esten donde esten),1,,,,
+Cosecha Natural,2,"Hasta el principio de tu siguiente turno, cuando un secuaz muera, gana 2 oro o 2 energía a tu elección",1,,,"Hasta el principio de tu siguiente turno, cuando un secuaz muera, gana 1 oro o 1 energía a tu elección",
+Raíces Controladoras,2,"Hasta tu siguiente turno, las unidades enemigas que empiezen el turno en la misma loseta que un secuaz aliado no pueden moverse",1,,,,
+Cubrir,3,"Hasta el principio de tu siguiente turno, tus unidades no pueden sufrir daño.",1,,Utilidad,,
+Conversión Absoluta,3,Transforma todos los secuaces enemigos en la loseta donde se encuentra tu heroe en secuaces aliados (ignorando limite de secuaces),1,,,,
+Explotación Silvana,3,Construye un extractor y una mina en losetas de bosque que no tengan ninguna construcción,1,,,,
+Despertar del Terreno,3,Juega esta carta cuando haya 3 o más secuaces enemigos en tu loseta. Transforma esa loseta en una loseta de tu facción(aunque haya un edificio),1,,,Juega esta carta cuando haya 3 o más secuaces enemigos en tu loseta. Transforma esa loseta en una loseta de bosque(aunque haya un edificio),
+Ciclo Infinito,3,"Hasta el principio de tu siguiente turno, cada vez que un secuaz muera, genera otro en una loseta de de tu facción",1,,,,
+Ruinas del Bosque,3,Destruye cualquier edificio (sin importar la distancia),1,FaccioBasica5_Destruir.png,"Utilidad, Combate",,
+Tributos del Bosque,3,Roba un recurso a cada jugador por cada unidad que se encuentre en la misma loseta que un secuaz aliado (el recurso a elección de la víctima),1,,,,
+Alzamiento del Enjambre,4,Cada secuaz inflinge 3 de daño a una unidad en su misma loseta,1,,,De 2 a 4,
+Dominio del Bosque,5,Transforma todos los secuaces enemigos en losetas de tu facción en secuaces aliados.,1,,,De 3 a 5,
+Poblado del Bosque,6,Genera dos secuaces en cada aldea que controles (ignorando el límite de secuaces),1,,,De 2 a 6,
+Colonización Salvaje,6,Genera un secuaz en cada loseta de facción que no sea la tuya (ignorando el límite de secuaces),1,,,De 5 a 6 y de 2 a 1,
+Wololo,8,Cada secuaz transforma un secuaz enemigo en aliado que se encuentre en su misma loseta,1,,,,
