@@ -24,7 +24,7 @@ Roca 1,10,2,2,5,"• El héroe gana los desempates para el control de edificios 
 • Los minions tienen 1 de movimiento pero tienen más vida.",,
 Roca 2,9,3,2,3,"• Al usar la carta de colocar muros coloca 2 muros en vez de 1.
 • Los muros de pueden colocar hasta a 1 casillas de distancia.",,
-Agua 1,8,2,2,4,"• Si empezamos el turno en una loseta de agua tenemos una acción más en el turno.
+Agua 1,8,2,2,3,"• Si empezamos el turno en una loseta de agua tenemos una acción más en el turno.
 • Si usamos una carta en una loseta de agua nos curamos 2 de vida.",,
 Agua 2,7,3,2,3,"• Si tenemos losetas de agua adyacentes, tanto el héroe como los minions pueden moverse
 entre ellas sin gastar ni turno ni paso de movimiento.

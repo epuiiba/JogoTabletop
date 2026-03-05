@@ -5,5 +5,5 @@ Construir aldea,4,4,Construye una aldea,8,Basica2_Aldea.png,Construir Aldea,Cart
 Constuir templo,8,8,Construye un templo,8,Basica3_Templo.png,Construir Templo,Cartes Elemental/BackBasica.png,5/7 -> 8/8,,
 Construir extractor,4,2,Construye un extractor,8,Basica4_Extractor.png,Construir Extractor,Cartes Elemental/BackBasica.png,,,
 Construir mina,2,4,Construye una mina,8,Basica5_Mina.png,Construir Mina,Cartes Elemental/BackBasica.png,,,
-Constuir muro,3,3,Construye un muro,8,Basica6_Muro.png,Construir Muro,Cartes Elemental/BackBasica.png,,,
-Generar secuaz,1,1,Genera un secuaz,8,Basica7_Secuaz.png,Spawnear Minions,Cartes Elemental/BackBasica.png,,,
+Constuir muro,2,2,Construye un muro,8,Basica6_Muro.png,Construir Muro,Cartes Elemental/BackBasica.png,3/3 -> 2/2,,
+Generar secuaz,2,1,Genera un secuaz,8,Basica7_Secuaz.png,Spawnear Minions,Cartes Elemental/BackBasica.png,1/1 -> 2/1,,

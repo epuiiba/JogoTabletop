@@ -1,31 +1,31 @@
-Nombre,Recurso,Descripcion,Copies,Imagen,Tag,Update 1
-Ataque elemental,1,Inflige 3 de daño 2 veces,1,FaccioBasica0_Ataque.png,Combate,Ataca con 7 de vida a un heroe enemigo
-Descarte,1,Descarta todas las cartas del mercado,1,FaccioBasica1_Descarte.png,Utilidad,
-Transformación,1,Transforma una loseta normal en una de roca,1,Basica1_TransformarNormal.png,Transformar Normal,
-Pies imparables,1,Tienes 3 acciones adicionales en el turno.,1,FaccioBasica3_Acciones.png,Utilidad,
-Piel de granito,1,Juega esta carta cuando vayas a recibir daño. Anula hasta 3 de daño.,1,,Utilidad,
-Refuerzo estructural,1,"Juega esta carta cuando quieran destruir un muro, cancela el efecto y pierde la acción",1,,"Utilidad, Muro",
-Daño por muro,1,"Utiliza esta carta cuando un enemigo termine su movimiento adyacente a un muro de roca, inflinge 4 de daño",1,,Muro,
-Recursos por control,1,"Deja esta carta bocaarriba en la mesa. Si controlas el altar central al inicio de tu turno, recibe 3 de oro, 3 de energia y descarta esta carta",1,,,
-Derrumbe,1,Destruye un muro de roca. Empuja todas las unidades adyacentes 1 loseta e inflige 2 de daño a cada una.,1,,,
-Contraataque,1,Anula todo el daño y el atacante recibe 3 de daño,1,,,"Juega esta carta cuando recibas daño, anula hasta 2 de daño y el atacante recibe 2 de daño"
-Represalia,1,"Juega esta carta cuando un héroe enemigo nos ataque, le devolvemos la misma cantidad de daño",1,,Combate,
-Zona fortificada,1,"Hasta tu próximo turno, los enemigos no pueden jugar cartas en losetas adyacentes a un muro",1,,,
-Guardia terrenal,1,Genera dos secuaces en una loseta de roca,1,,,
-Cubrir,1,"Hasta el principio de tu siguiente turno, no puedes sufrir daño.",1,,Utilidad,De 2 a 1
-Regeneración mineral,2,Cura a todos los secuaces,1,,Secuaz,Cura a todos los secuaces 2 de vida // de 1 a 2
-Reclutamiento de escombros,2,Destruye un muro para generar dos secuaces en su loseta,1,,"Utilidad, Secuaz, Muro",De 1 a 2
-Transformación 2,2,Transforma cualquier loseta en una de roca (sin importar la distancia),1,11_TransformarCualquiera.png,Transformar Faccion,
-Destuir edificio,2,Destruye cualquier edificio,1,FaccioBasica5_Destruir.png,"Utilidad, Combate",
-Reestructuración defensiva,2,Mueve hasta 2 muros a una loseta adyacente (o reposicionalos en la misma loseta),1,,Muro,
-Traslado monumental,2,Mueve la posición de un edificio o templo que se encuentre sobre una loseta de roca a otra loseta de roca sin edificio.,1,,,
-Fortaleza,2,"Construye 2 muros. Si ya hay un muro, construye 3",1,,"Utilidad, Muro",
-Llamada de los altares,2,"Genera un secuaz en cada altar (mayor y menores, ignorando el límite de secuaces)",1,,,
-Destuir edificio+,3,Destruye cualquier edificio (sin importar la distancia),1,FaccioBasica5_Destruir.png,"Utilidad, Combate",
-Reubicación estructural,3,Elige un edificio que se encuentre en la misma loseta que un secuaz aliado. Puedes moverlo a otra loseta vacia que se encuentre hasta 2 de distancia.,1,,,
-Terreno implacable,4,"Hasta tu próximo turno, cuando un héroe entre en una loseta de roca, termina su turno. Los secuaces enemigos no pueden entrar.",1,,,"Hasta tu próximo turno, tus losetas cuestan +1 paso adicional para héroes (3). Los secuaces enemigos no pueden entrar. De 2 a 4"
-Protección territorial,4,"Hasta el principio de tu siguiente turno, los enemigos no pueden capturar edificios aliados",1,,,De 2 a 4
-Sobrepoblación estructural,5,Genera un secuaz en cada edificio que controles,1,,,De 4 a 5
-Ruinas eternas,5,Utiliza esta carta para proteger un edificio o templo que controles de ser capturado o destruido permanentemente,1,,Utilidad,
-Juramiento eterno,8,Utiliza esta carta para proteger dos edificios o templos que controles de ser capturado o destruido permanentemente,1,,,
-Reordenación general,9,Mueve hasta 3 edificios o templos a losetas vacias (sin importar la distancia),1,,,De 7 a 9
+Nombre,Recurso,Descripcion,Copies,Imagen,Tag,Update 1,Update 2,Columna 1
+Piel de granito,1,Juega esta carta cuando vayas a recibir daño. Anula hasta 3 de daño.,1,,Utilidad,,,
+Refuerzo estructural,1,"Juega esta carta cuando quieran destruir un muro, cancela el efecto y pierde la acción",1,,"Utilidad, Muro",,,
+Daño por muro,1,"Utiliza esta carta cuando un enemigo termine su movimiento adyacente a un muro de roca, inflinge 4 de daño",1,,Muro,,,
+Recursos por control,1,"Deja esta carta bocaarriba en la mesa. Si controlas el altar central al inicio de tu turno, recibe 3 de oro, 3 de energia y descarta esta carta",1,,,,,
+Derrumbe,1,Destruye un muro de roca. Empuja todas las unidades adyacentes 1 loseta e inflige 2 de daño a cada una.,1,,,,,
+Contraataque,1,Anula todo el daño y el atacante recibe 3 de daño,1,,,"Juega esta carta cuando recibas daño, anula hasta 2 de daño y el atacante recibe 2 de daño",,
+Represalia,1,"Juega esta carta cuando un enemigo nos ataque, le devolvemos la misma cantidad de daño",1,,Combate,"Juega esta carta cuando un héroe enemigo nos ataque, le devolvemos la misma cantidad de daño",,
+Zona fortificada,1,"Hasta tu próximo turno, los enemigos no pueden jugar cartas en losetas adyacentes a un muro",1,,,,,
+Transformación,2,Transforma una loseta normal en una de tu facción,1,Basica1_TransformarNormal.png,Transformar Normal,"De 1 a 2 // Antes era transformar en la de esa fación solo, ahora sirve para todas las facciones",,
+Guardia terrenal,2,Genera dos secuaces en una loseta de roca,1,,,De 1 a 2,,
+Regeneración mineral,2,Cura a todos los secuaces,1,,Secuaz,Cura a todos los secuaces 2 de vida // de 1 a 2,,
+Reclutamiento de escombros,2,Destruye un muro para generar dos secuaces en esa loseta,1,,"Utilidad, Secuaz, Muro",De 1 a 2,,
+Reestructuración defensiva,2,Mueve hasta 2 muros a una loseta adyacente (o reposicionalos en la misma loseta),1,,Muro,,,
+Traslado monumental,2,Mueve la posición de un edificio o templo que se encuentre sobre una loseta de roca a otra loseta de roca sin edificio.,1,,,,,
+Fortaleza,2,"Construye 2 muros. Si ya hay un muro, construye 3",1,,"Utilidad, Muro",,,
+Ataque elemental,3,Inflige 3 de daño 2 veces,1,FaccioBasica0_Ataque.png,Combate,Ataca con 7 de vida a un heroe enemigo,De 1 a 3,
+Pies imparables,3,Tienes 3 acciones adicionales en el turno.,1,FaccioBasica3_Acciones.png,Utilidad,De 1 a 3,,
+Cubrir,3,"Hasta el principio de tu siguiente turno, tus secuaces y tú héroe no pueden sufrir daño.",1,,Utilidad,De 2 a 1,"Hasta el principio de tu siguiente turno, no puedes sufrir daño // De 1 a 3",
+Reubicación estructural,3,Elige un edificio que se encuentre en la misma loseta que un secuaz aliado. Puedes moverlo a otra loseta vacia que se encuentre hasta 2 de distancia.,1,,,,,
+Destuir edificio,3,Destruye cualquier edificio en la loseta donde se encuentre tu héroe,1,FaccioBasica5_Destruir.png,"Utilidad, Combate",Destruye cualquier edificio // De 2 a 4,,
+Transformación 2,4,Transforma cualquier loseta vacía en una de tu facción (sin importar la distancia),1,11_TransformarCualquiera.png,Transformar Faccion,"De 2 a 4 // Antes era transformar en la de esa fación solo, ahora sirve para todas las facciones",,
+Terreno implacable,4,"Hasta tu próximo turno, cuando un héroe entre en una loseta de roca, termina su turno. Los secuaces enemigos no pueden entrar.",1,,,"Hasta tu próximo turno, tus losetas cuestan +1 paso adicional para héroes (3). Los secuaces enemigos no pueden entrar. De 2 a 4",,
+Protección territorial,4,"Hasta el principio de tu siguiente turno, los enemigos no pueden capturar edificios aliados",1,,,De 2 a 4,,
+Movimiento de secuaces,5,Puedes mover todos tus secuaces hasta 2 losetas,1,FaccioBasica1_Descarte.png,Utilidad,Descarta todas las cartas del mercado,,
+Sobrepoblación estructural,5,Genera un secuaz en cada edificio que controles,1,,,De 4 a 5,,
+Ruinas eternas,5,Utiliza esta carta para proteger un edificio o templo que controles de ser capturado o destruido permanentemente,1,,Utilidad,,,
+Destuir edificio+,6,Destruye cualquier edificio (sin importar la distancia),1,FaccioBasica5_Destruir.png,"Utilidad, Combate",De 3 a 6,,
+Llamada de los altares,6,"Genera un secuaz en cada altar (mayor y menores, ignorando el límite de secuaces)",1,,,De 2 a 6,,
+Juramiento eterno,8,Utiliza esta carta para proteger dos edificios o templos que controles de ser capturado o destruido permanentemente,1,,,,,
+Reordenación general,9,Mueve hasta 3 edificios o templos a losetas de roca(sin importar la distancia),1,,,De 7 a 9,Mueve hasta 3 edificios o templos a losetas vacías(sin importar la distancia),

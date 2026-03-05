@@ -1,31 +1,31 @@
-Nombre,Recurso,Descripcion,Copies,Imagen,Tag,Update 1
-Ataque elemental,1,Inflige 3 de daño 2 veces,1,FaccioBasica0_Ataque.png,Combate,Ataca con 7 de vida a un heroe enemigo
-Descarte,1,Descarta todas las cartas del mercado,1,FaccioBasica1_Descarte.png,Utilidad,
-Transformación,1,Transforma una loseta normal en una de fuego,1,Basica1_TransformarNormal.png,Transformar Normal,
-Pies imparables,1,Tienes 3 acciones adicionales en el turno.,1,FaccioBasica3_Acciones.png,Utilidad,
-Ataque,1,Inflinge 3 de daño a una unidad que se encuentre en tu misma loseta. Juega una acción adicional este turno.,1,,Combate,
-Carne al punto,1,"Inflinge 1 de daño a un heroe enemigo. Si lo mata, robale 3 recursos a tu elección.",1,,"Combate, Utilidad",
-Inicio doloroso,1,"Hasta tu próximo turno, las losetas de fuego infligen 1 de daño adicional al entrar y 2 de daño a los heroes al empezar turno",1,,Combate,
-Daño por carta,1,Juega esta carta cuando un enemigo juegue una carta. Ese jugador recibe 2 de daño por cada carta que juegue ese turno,1,,Combate,
-Constuir muros,1,Constuye un muro en cada loseta de fuego,1,,Utilidad,
-Incendio controlado,5,Descarta cualquier cantidad de oro y energia. Todos los enemigos descartan el doble de los recursos descartados.,1,,Utilidad,De 1 - Los enemigos descartan la misma cantidad -> 5 - Los enemigos descartan el doble
-Cubrir,2,"Hasta el principio de tu siguiente turno, no puedes sufrir daño.",1,,Utilidad,
-Transformación 2,2,Transforma cualquier loseta en una de fuego (sin importar la distancia),1,11_TransformarCualquiera.png,Transformar Faccion,
-Destuir edificio,2,Destruye cualquier edificio,1,FaccioBasica5_Destruir.png,"Utilidad, Combate",
-Carne quemada,2,Inflinge 3 de daño a un heroe que se encuentre en tu misma loseta. El jugador afectado descarta dos cartas de la mano a su elección.,1,,"Utilidad, Combate",
-Exceso de energia,2,Genera un secuaz en cada generador de energia.,1,,"Utilidad, Secuaz",
-Llamas vivientes,2,Genera un secuaz en cada loseta de fuego (ignorando el límite de secuaces),1,,"Utilidad, Secuaz",
-Sobrecarga,2,"Por cada secuaz aliado en losetas de fuego, obtiene 2 de energía.",1,,,"Por cada secuaz aliado en losetas de fuego, obtiene uno de energía."
-Combustion,3,Todos los secuaces explotan infligendo 3 de daño a todos los enemigos en sus losetas,1,,"Combate, Secuaz",De 1 a 3
-Destrucción masiva,3,Destruye hasta 4 muros (sin importar la distancia),1,,,De 2 a 3
-Protección de altar,3,Inflige 3 de daño a todas las unidades adyacentes a tu altar.,1,,Combate,
-Aumento de daño,3,"Hasta tu próximo turno, cada vez que una unidad enemiga reciba daño, recibe 1 adicional.",1,,"Combate, Utilidad",
-Destuir edificio+,3,Destruye cualquier edificio (sin importar la distancia),1,FaccioBasica5_Destruir.png,"Utilidad, Combate",
-Fuego abrasador,4,Inflinge 4 de daño a todas las unidades enemigas en losetas de fuego,1,,Combate,De 2 a 4
-Actividad volcanica,4,Inflinge 2 de daño a todas las unidades enemigas en losetas de fuego y adyacentes,1,,Combate,De 3 a 4
-Explosión,5,"Tu heroe explota y muere. Destruye el edificio sobre el que se encuentre, mata a todas las unidades de la loseta y finaliza el turno.",1,,Combate,De 4 a 5
-Altar poblado,6,Genera 4 secuaces en tu altar (ignorando el límite de secuaces),1,,Secuaz,De 2 a 6
-Purga general,6,Elimina todos los secuaces,1,,Combate,De 4 a 6
-Calcinación de Reservas,3,Todos los enemigos descartan un total de 5 recursos a su elección.,1,,,
-Explosión secuaz,9,Explota todos tus secuaces. Destruye todos los edificios en los que se encuentre un secuaz explotado.,1,,,De 6 a 9
-Explosión+,8,"Tu heroe explota y muere. En tu loseta y adyacentes, destruye todos los edificios y mata todas las unidades. Finaliza tu turno.",1,,,
+Nombre,Recurso,Descripcion,Copies,Imagen,Tag,Update 1,Update 2
+Ataque,1,Inflinge 3 de daño a una unidad que se encuentre en tu misma loseta. Juega una acción adicional este turno.,1,,Combate,,
+Carne al punto,1,"Inflinge 1 de daño a un heroe enemigo. Si lo mata, robale 3 recursos a tu elección.",1,,"Combate, Utilidad",,
+Inicio doloroso,1,"Hasta tu próximo turno, las losetas de fuego infligen 1 de daño adicional al entrar y 2 de daño a los heroes al empezar turno",1,,Combate,,
+Daño por carta,1,Juega esta carta cuando un enemigo juegue una carta. Ese jugador recibe 2 de daño por cada carta que juegue ese turno,1,,Combate,,
+Constuir muros,1,Constuye un muro en cada loseta de fuego,1,,Utilidad,,
+Ataque elemental,2,Inflige 3 de daño 2 veces,1,FaccioBasica0_Ataque.png,Combate,Ataca con 7 de vida a un heroe enemigo,De 1 a 2
+Transformación,2,Transforma una loseta normal en una de tu facción,1,Basica1_TransformarNormal.png,Transformar Normal,"De 1 a 2 // Antes era transformar en la de esa fación solo, ahora sirve para todas las facciones",
+Cubrir,2,"Hasta el principio de tu siguiente turno, no puedes sufrir daño.",1,,Utilidad,,
+Carne quemada,2,Inflinge 3 de daño a un heroe que se encuentre en tu misma loseta. El jugador afectado descarta dos cartas de la mano a su elección.,1,,"Utilidad, Combate",,
+Sobrecarga,2,"Por cada secuaz aliado en losetas de fuego, obtiene 2 de energía.",1,,,"Por cada secuaz aliado en losetas de fuego, obtiene uno de energía.",
+Pies imparables,3,Tienes 3 acciones adicionales en el turno.,1,FaccioBasica3_Acciones.png,Utilidad,De 1 a 3,
+Combustion,3,Todos los secuaces explotan infligendo 3 de daño a todos los enemigos en sus losetas,1,,"Combate, Secuaz",De 1 a 3,
+Destrucción masiva,3,Destruye hasta 4 muros (sin importar la distancia),1,,,De 2 a 3,
+Protección de altar,3,Inflige 3 de daño a todas las unidades adyacentes a tu altar.,1,,Combate,,
+Aumento de daño,3,"Hasta tu próximo turno, cada vez que una unidad enemiga reciba daño, recibe 1 adicional.",1,,"Combate, Utilidad",,
+Calcinación de Reservas,3,Todos los enemigos descartan un total de 5 recursos a su elección.,1,,,,
+Transformación 2,4,Transforma cualquier loseta vacía en una de tu facción (sin importar la distancia),1,11_TransformarCualquiera.png,Transformar Faccion,"De 2 a 4 // Antes era transformar en la de esa fación solo, ahora sirve para todas las facciones",
+Destuir edificio,4,Destruye cualquier edificio en la loseta donde se encuentre tu héroe,1,FaccioBasica5_Destruir.png,"Utilidad, Combate",Destruye cualquier edificio // De 2 a 4,
+Fuego abrasador,4,Inflinge 4 de daño a todas las unidades enemigas en losetas de fuego,1,,Combate,De 2 a 4,
+Actividad volcanica,4,Inflinge 2 de daño a todas las unidades enemigas en losetas de fuego y adyacentes,1,,Combate,De 3 a 4,
+Llamas vivientes,5,Genera un secuaz en cada loseta de fuego (ignorando el límite de secuaces),1,,"Utilidad, Secuaz",De 2 a 5,
+Movimiento de secuaces,5,Puedes mover todos tus secuaces hasta 2 losetas,1,FaccioBasica1_Descarte.png,Utilidad,Descarta todas las cartas del mercado,
+Incendio controlado,5,Descarta cualquier cantidad de oro y energia. Todos los enemigos descartan el doble de los recursos descartados.,1,,Utilidad,De 1 a 5 // Descarta cualquier cantidad de oro y energia. Los enemigos descartan la misma cantidad,
+Exceso de energia,6,Genera un secuaz en cada generador de energia.,1,,"Utilidad, Secuaz",De 2 a 6,
+Destuir edificio+,6,Destruye cualquier edificio (sin importar la distancia),1,FaccioBasica5_Destruir.png,"Utilidad, Combate",De 3 a 6,
+Purga general,6,Elimina todos los secuaces,1,,Combate,De 4 a 6,
+Explosión,7,"Tu heroe explota y muere. Destruye el edificio sobre el que se encuentre, mata a todas las unidades de la loseta y finaliza el turno.",1,,Combate,De 4 a 7,
+Altar poblado,8,Genera 4 secuaces en tu altar (ignorando el límite de secuaces),1,,Secuaz,De 2 a 8,
+Explosión+,8,"Tu heroe explota y muere. En tu loseta y adyacentes, destruye todos los edificios y mata todas las unidades. Finaliza tu turno.",1,,,,
+Explosión secuaz,9,Explota todos tus secuaces. Destruye todos los edificios en los que se encuentre un secuaz explotado.,1,,,De 6 a 9,
