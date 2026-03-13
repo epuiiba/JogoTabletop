@@ -1,5 +1,4 @@
-Nombre,Recurso,Descripcion,Copies,Imagen,Tag,Update 1,Update 2,Columna 1
-Piel de granito,1,Juega esta carta cuando vayas a recibir daño. Anula hasta 3 de daño.,1,,Utilidad,,,
+Nombre,Recurso,Descripcion,Copies,Imagen,Tag,Update 1,Update 2,Update 3
 Refuerzo estructural,1,"Juega esta carta cuando quieran destruir un muro, cancela el efecto y pierde la acción",1,,"Utilidad, Muro",,,
 Daño por muro,1,"Utiliza esta carta cuando un enemigo termine su movimiento adyacente a un muro de roca, inflinge 4 de daño",1,,Muro,,,
 Recursos por control,1,"Deja esta carta bocaarriba en la mesa. Si controlas el altar central al inicio de tu turno, recibe 3 de oro, 3 de energia y descarta esta carta",1,,,,,
@@ -29,3 +28,4 @@ Destuir edificio+,6,Destruye cualquier edificio (sin importar la distancia),1,Fa
 Llamada de los altares,6,"Genera un secuaz en cada altar (mayor y menores, ignorando el límite de secuaces)",1,,,De 2 a 6,,
 Juramiento eterno,8,Utiliza esta carta para proteger dos edificios o templos que controles de ser capturado o destruido permanentemente,1,,,,,
 Reordenación general,9,Mueve hasta 3 edificios o templos a losetas de roca(sin importar la distancia),1,,,De 7 a 9,Mueve hasta 3 edificios o templos a losetas vacías(sin importar la distancia),
+Camino a la victoria,,Tienes 1 PV mientras tengas esta carta en la mano,1,,Utilidad,Juega esta carta cuando vayas a recibir daño. Anula hasta 3 de daño.,,

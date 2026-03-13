@@ -12,7 +12,7 @@ Viento 1,7,2,1,3,"• Cada vez que juegue/compre una carta, puedes elegir entre:
           o Mover a un héroe que se encuentre en tu misma loseta",,
 Viento 2,7,2,3,3,"• No le afectan los muros pero tampoco puede ponerlos.
 • Los secuaces son inmunes a los efectos de los biomas rivales.",,
-Bosque 1,X,2,2,4,"• No tiene heroe, solo juega con secuaces
+Bosque 1,X,2,2,3,"• No tiene heroe, solo juega con secuaces
 • Siempre tienes almenos 1 secuaz (si no tienes ninguno aparece en el altar)
 • Por cada aldea construida aumenta 1 el número mínimo de secuaces
 • Su acción de daño hace que 2 secuaces causen 2 de daño en la misma loseta","• Siempre tienes almenos 2 secuaces (si tienes menos spawnean al altar).
