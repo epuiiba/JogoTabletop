@@ -21,7 +21,7 @@ Actividad volcanica,4,Inflinge 2 de daño a todas las unidades enemigas en loset
 Llamas vivientes,5,Genera un secuaz en cada loseta de fuego (ignorando el límite de secuaces),1,,"Utilidad, Secuaz",De 2 a 5,,
 Movimiento de secuaces,5,Puedes mover todos tus secuaces hasta 2 losetas,1,FaccioBasica1_Descarte.png,Utilidad,Descarta todas las cartas del mercado,,
 Incendio controlado,5,Descarta cualquier cantidad de oro y energia. Todos los enemigos descartan el doble de los recursos descartados.,1,,Utilidad,De 1 a 5 // Descarta cualquier cantidad de oro y energia. Los enemigos descartan la misma cantidad,,
-Exceso de energia,6,Genera un secuaz en cada generador de energia.,1,,"Utilidad, Secuaz",De 2 a 6,,
+Exceso de energia,6,Genera un secuaz en cada generador de energia que controles.,1,,"Utilidad, Secuaz",De 2 a 6,,
 Destuir edificio+,6,Destruye cualquier edificio (sin importar la distancia),1,FaccioBasica5_Destruir.png,"Utilidad, Combate",De 3 a 6,,
 Purga general,6,Elimina todos los secuaces,1,,Combate,De 4 a 6,,
 Explosión,7,"Tu heroe explota y muere. Destruye el edificio sobre el que se encuentre, mata a todas las unidades de la loseta y finaliza el turno.",1,,Combate,De 4 a 7,,

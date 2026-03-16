@@ -26,6 +26,6 @@ Movimiento de secuaces,5,Puedes mover todos tus secuaces hasta 2 losetas,1,Facci
 Conexión de lagos,5,Elige una loseta de tu facción. Convierte dos losetas en losetas de tu facción de forma que queden conectadas entre ellas,1,,,De 4 a 5,,
 Destuir edificio+,6,Destruye cualquier edificio (sin importar la distancia),1,FaccioBasica5_Destruir.png,"Utilidad, Combate",De 3 a 6,,
 Marea negra,6,"Roba 3 de energia y 3 de oro a cada jugador. Hasta tu siguiente turno, los jugadores enemigos tienen dos acciones menos",1,,,,,
-Chaparrón localizado,7,"Elige una loseta, genera un secuaz en esa loseta y en las adyacentes (ignorando límite de secuaces)",1,,,De 4 a 7,,
+Chaparrón localizado,7,"Elige una loseta, genera un secuaz en esa loseta y en dos losetas adyacentes (ignorando límite de secuaces)",1,,,De 4 a 7,,
 Dominio de mareas,9,Elige unas losetas de tu facción que esten conectadas. Transforma todos los secuaces enemigos en aliados que se encuentren en esas losetas y las adyacentes a ellas,1,,,,,
 Camino a la victoria,,Tienes 1 PV mientras tengas esta carta en la mano,1,,Utilidad,Descarta dos cartas del mercado. Repite esta acción 3 veces,,
