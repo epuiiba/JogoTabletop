@@ -23,7 +23,7 @@ Golpe de energía,El jugador con mas extractores elige uno para destruirlo,1,,Mi
 Redistribución forzada,El jugador con mas oro regala todo su oro entre los demás jugadores (como él considere),1,,Mid Game,
 Caída de muros,Destruye todos los muros,1,,Mid Game,
 Repliegue de muros,"Por orden de turno, cada jugador puede reposicionar hasta 2 muros de su facción en cualquier posición del tablero",1,,Mid Game,
-Fortificación gratuita,"Por orden de turno, cada jugador construye un muro en cualquier posición del tablero",1,,Mid Game,
+Fortificación gratuita,"Por orden de turno, cada jugador construye dos muro en cualquier posición del tablero",1,,Mid Game,
 Purga central,Mata a todas las unidades que se encuentren en la loseta del altar central y adyacentes. El altar central ya no lo controla nadie,1,,Mid Game,
 Tregua entre secuaces,Pasiva: Los secuaces no pueden recibir daño ni morir,1,,Mid Game,
 Poder central,Pasiva: Quien controle el altar centrar genera 2 de esencia y roba una carta de cualquier facción al inicio de su turno (que esté en juego o no),1,,Mid Game,

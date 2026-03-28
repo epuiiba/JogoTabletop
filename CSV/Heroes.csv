@@ -2,16 +2,25 @@ Nom,vida,daño,movimiento,vidaminion,pasivas,Update 1,Update 2
 Fuego 1,8,2,2,3,"• Puedes utilizar una acción para sacrificar un secuaz y causar 3 de daño a un enemigo en su loseta
 • Si tienes 3 secuaces juntos en una loseta donde haya un edificio o muro, puedes destruirlo
 explotando los secuaces.
-• Si matas un héroe enemigo, genera un secuaz",,
-Fuego 2,7,2,2,3,"• Utilizando una acción, puede inflingir uno de daño a todas las unidades enemigas en su loseta
-• Si matamos a algún héroe tenemos una acción adicional ese turno.",,
+• Si matas un héroe enemigo, genera un secuaz","• Puedes utilizar una acción para sacrificar un secuaz y causar 3 de daño a un enemigo en su loseta
+• Si tienes 3 secuaces juntos en una loseta donde haya un edificio o muro, puedes destruirlo
+explotando los secuaces.
+• Si matas un héroe enemigo, genera un secuaz",
+Fuego 2,7,2,2,3,"• Utilizando una acción, puede inflingir uno de daño a tres unidades enemigas en su loseta
+• Si matamos a algún héroe tenemos una acción adicional ese turno.","Utilizando una acción, puede inflingir uno de daño a todas las unidades enemigas en su loseta",
 Rayo 1,8,2,2,3,"• Si le haces daño a un héroe enemigo, le robas oro o energía a tu elección",,
 Rayo 2,8,2,2,3,"• Cuando usa una carta, puedes infligir dos de daño a una unidad en tu misma loseta",,
-Viento 1,7,2,1,3,"• Cada vez que juegue/compre una carta, puedes elegir entre:
+Viento 1,7,2,2,3,"• El heroe no tiene movimiento gratuito antes de su turno.
+• Cada vez que juegue/compre una carta, puedes elegir entre:
+          o Moverse una loseta
+          o Mover a un héroe que se encuentre en tu misma loseta","Movimiento 1->2
+• Cada vez que juegue/compre una carta, puedes elegir entre:
           o Moverse hasta dos losetas
-          o Mover a un héroe que se encuentre en tu misma loseta",,
-Viento 2,7,2,3,3,"• No le afectan los muros pero tampoco puede ponerlos.
-• Los secuaces son inmunes a los efectos de los biomas rivales.",,
+          o Mover a un héroe que se encuentre en tu misma loseta",
+Viento 2,7,2,2,3,"• El movimiento gratuito del heroe antes de su turno tiene 2 pasos de mivimiento.
+• Si un secuaz se encuentra sobre una loseta de viento, se mueve un paso adicional cuando se mueva.
+(tanto antes del turno como con acción de movimiento)","• No le afectan los muros pero tampoco puede ponerlos.
+• Los secuaces son inmunes a los efectos de los biomas rivales.",
 Bosque 1,X,2,2,3,"• No tiene heroe, solo juega con secuaces
 • Siempre tienes almenos 1 secuaz (si no tienes ninguno aparece en el altar)
 • Por cada aldea construida aumenta 1 el número mínimo de secuaces

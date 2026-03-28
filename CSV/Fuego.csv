@@ -25,7 +25,7 @@ Exceso de energia,6,Genera un secuaz en cada generador de energia que controles.
 Destuir edificio+,6,Destruye cualquier edificio (sin importar la distancia),1,FaccioBasica5_Destruir.png,"Utilidad, Combate",De 3 a 6,,
 Purga general,6,Elimina todos los secuaces,1,,Combate,De 4 a 6,,
 Explosión,7,"Tu heroe explota y muere. Destruye el edificio sobre el que se encuentre, mata a todas las unidades de la loseta y finaliza el turno.",1,,Combate,De 4 a 7,,
-Altar poblado,8,Genera 4 secuaces en tu altar (ignorando el límite de secuaces),1,,Secuaz,De 2 a 8,,
+Altar poblado,6,Genera 4 secuaces en tu altar (ignorando el límite de secuaces),1,,Secuaz,De 2 a 8,De 8 a 6,
 Explosión+,8,"Tu heroe explota y muere. En tu loseta y adyacentes, destruye todos los edificios y mata todas las unidades. Finaliza tu turno.",1,,,,,
 Explosión secuaz,9,Explota todos tus secuaces. Destruye todos los edificios en los que se encuentre un secuaz explotado.,1,,,De 6 a 9,,
 Camino a la victoria,,Tienes 1 PV mientras tengas esta carta en la mano,1,,Utilidad,"Por cada secuaz aliado en losetas de fuego, obtiene 2 de energía.",,
