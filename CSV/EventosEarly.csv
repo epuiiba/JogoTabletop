@@ -9,7 +9,7 @@ Conversión de recursos,"Cada jugador puede descartar la cantidad de cartas que 
 Transformacion de faccion,"Por orden de turno, cada jugador elige entre:
 • Transformar una loseta normal vacia en otra de su facción
 • Explorar en cualquier parte del tablero una loseta de su facción",1,,Early Game,,,,,,,,,,
-Dominio del Altar,"Pasiva: Quien controle el altar central, obtiene uno de energia y uno de oro adicional al inicio de su turno",1,,Early Game,,,,Cartas,,Cada cuantos turnos por jugadores,,,,
+Dominio del Altar,"Pasiva: Quien controle el altar central, obtiene uno de energia o uno de oro adicional al inicio de su turno",1,,Early Game,"Pasiva: Quien controle el altar central, obtiene uno de energia y uno de oro adicional al inicio de su turno",,,Cartas,,Cada cuantos turnos por jugadores,,,,
 Recurso constante,Pasiva: Todos los jugadores generan uno de energia y uno de oro adicional al inicio del turno,1,,Early Game,,,Cartas de early,3,,2 Jugadores,5,,,
 Mercado libre,Pasiva: Comprar cartas cuesta la mitad de oro,1,,Early Game,,,Cartas de Mid,7,,3 Jugadores,7,,,
 Altar sobrecalentado,Pasiva: El altar central no funciona,1,,Early Game,,,Cartas de Late,10,,4 Jugadores,9,,,
