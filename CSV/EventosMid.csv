@@ -6,7 +6,7 @@ Mantenimiento,Cada jugador pierde 1 de oro por cada edificio que controle,1,,Mid
 Eliminación de secuaces,Elimina todos los secuaces del tablero,1,,Mid Game,
 Sacrificio forzado,"Por orden de turno, cada jugador elimina 1 secuaz de otro jugador",1,,Mid Game,
 Transformación normal,"Por orden de turno, cada jugador transforma una loseta de facción vacia en una loseta neutral",1,,Mid Game,
-Perdida de energía por secuaz,Cada jugador pierde 1 de energia por cada secuaz aliado,1,,Mid Game,
+Perdida de energía por secuaz,Cada jugador pierde 2 de energia por cada secuaz aliado,1,,Mid Game,Cada jugador pierde 1 de energia por cada secuaz aliado
 Reembolso,"Pasiva: Al inicio del turno, puedes descartar cualquier numero de cartas para recuperar su coste de oro",1,,Mid Game,Cada jugador pierde 1 vida por cada carta en mano
 Despertar de esencia,Todos los jugadores reciben 3 de esencia y roban una carta de su facción,1,,Mid Game,
 Esencia inactiva,Cada jugador roba dos cartas de una facción que no este en juego,1,,Mid Game,
