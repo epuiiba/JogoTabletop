@@ -32,7 +32,7 @@ Construir muro,2,3,Construye dos muros,2,22_DosMuros.png,Construir Muro,,,,,,
 Destruir muro,3,1,Destruye un muro,10,23_DestruirMuro.png,Destruir Muro,,,,,,
 Descartar cartas de mercado,1,1,Descarta hasta 3 cartas de mercado,3,24_DescartarMercado2.png,Utilidad,,,,,,
 Descartar cartas de mercado,2,1,Descarta hasta 6 cartas de mercado,2,25_DescartarMercado4.png,Utilidad,,,,,,
-Comprar con energia,1,0,Juega esta carta para comprar una carta del mercado. Se puede pagar el coste de la carta comprada con oro y/o energia,3,26_ComprarEnergia.png,Utilidad,2/1->1/0,,,,,
+Obtener esencia,2,6,Obtén 3 de esencia,3,26_ComprarEnergia.png,Utilidad,2/1->1/0,Juega esta carta para comprar una carta del mercado. Se puede pagar el coste de la carta comprada con oro y/o energia,,,,
 Movimiento extra,1,1,Muevete tu valor de movimiento + 2,2,28_Movimiento2.png,Utilidad,1/0 -> 1/1,,,,,
 Movimiento extra secuaces,2,1,Dos secuaces pueden moverse su valor de movimiento + 2,2,43_MovimientoSecuacesMasDos.png,Utilidad,"1/1 -> 2/1
 De todos a dos",,,,,

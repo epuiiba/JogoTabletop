@@ -1,13 +1,16 @@
 Nom,vida,daño,movimiento,vidaminion,pasivas,Update 1,Update 2
-Fuego 1,8,2,2,3,"• Puedes utilizar una acción para sacrificar un secuaz y causar 3 de daño a un enemigo en su loseta
+Fuego 1,8,2,2,3,"• Al atacar con el heore, puede utilizar 3 de energía para inflingir 3 de daño en lugar de 2
+• Si tienes 3 secuaces en una loseta donde haya un muro, puedes destruirlo explotando uno de los secuaces
+• Si matas un héroe enemigo, genera un secuaz","• Puedes utilizar una acción para sacrificar un secuaz y causar 3 de daño a un enemigo en su loseta
 • Si tienes 3 secuaces juntos en una loseta donde haya un edificio o muro, puedes destruirlo
 explotando los secuaces.
 • Si matas un héroe enemigo, genera un secuaz","• Puedes utilizar una acción para sacrificar un secuaz y causar 3 de daño a un enemigo en su loseta
 • Si tienes 3 secuaces juntos en una loseta donde haya un edificio o muro, puedes destruirlo
 explotando los secuaces.
-• Si matas un héroe enemigo, genera un secuaz",
-Fuego 2,7,2,2,3,"• Utilizando una acción, puede inflingir uno de daño a tres unidades enemigas en su loseta
-• Si matamos a un héroe enemigo tenemos una acción adicional ese turno.","Utilizando una acción, puede inflingir uno de daño a todas las unidades enemigas en su loseta",
+• Si matas un héroe enemigo, genera un secuaz"
+Fuego 2,7,2,2,3,"• Utilizando una acción, puede inflingir uno de daño a dos unidades enemigas en su loseta
+• Si matamos a un héroe enemigo tenemos una acción adicional ese turno.","Utilizando una acción, puede inflingir uno de daño a todas las unidades enemigas en su loseta","• Utilizando una acción, puede inflingir uno de daño a tres unidades enemigas en su loseta
+• Si matamos a un héroe enemigo tenemos una acción adicional ese turno."
 Rayo 1,8,2,2,3,"• Si le haces daño a un héroe enemigo, le robas oro o energía a tu elección",,
 Rayo 2,8,2,2,3,"• Cuando usa una carta, puedes infligir dos de daño a una unidad en tu misma loseta",,
 Viento 1,7,2,2,3,"• El heroe no tiene movimiento gratuito antes de su turno.

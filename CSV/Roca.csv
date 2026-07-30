@@ -15,7 +15,7 @@ Traslado monumental,2,Mueve la posición de un edificio que se encuentre sobre u
 Fortaleza,2,"Construye 2 muros. Si ya hay un muro, construye 3",1,,"Utilidad, Muro",,,,
 Ataque elemental,3,Inflige 3 de daño 2 veces,1,FaccioBasica0_Ataque.png,Combate,Ataca con 7 de vida a un heroe enemigo,De 1 a 3,,
 Pies imparables,3,Tienes 3 acciones adicionales en el turno.,1,FaccioBasica3_Acciones.png,Utilidad,De 1 a 3,,,
-Cubrir,3,"Hasta el principio de tu siguiente turno, tus secuaces y tú héroe no pueden sufrir daño.",1,,Utilidad,De 2 a 1,"Hasta el principio de tu siguiente turno, no puedes sufrir daño // De 1 a 3",,
+Cubrir,3,"Hasta tu siguiente turno, tus secuaces y tú héroe no pueden sufrir daño.",1,,Utilidad,De 2 a 1,"Hasta el principio de tu siguiente turno, no puedes sufrir daño // De 1 a 3",,
 Reubicación estructural,3,Elige un edificio que se encuentre en la misma loseta que un secuaz aliado. Puedes moverlo a otra loseta vacia que se encuentre hasta 2 de distancia.,1,,,,,,
 Destuir edificio,3,Destruye cualquier edificio en la loseta donde se encuentre tu héroe,1,FaccioBasica5_Destruir.png,"Utilidad, Combate",Destruye cualquier edificio // De 2 a 4,,,
 Transformación 2,4,Transforma cualquier loseta vacía en una de tu facción (sin importar la distancia),1,11_TransformarCualquiera.png,Transformar Faccion,"De 2 a 4 // Antes era transformar en la de esa fación solo, ahora sirve para todas las facciones",,,
